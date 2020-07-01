@@ -22,7 +22,7 @@
         </br>
         </br>
     </div>
-
+    <!--login form>
     <form name="login" class=login method="post" action="login.php">
         <label for="staff_id">ユーザーID</label>
         <input type="text" name="staff_id" required="required" placeholder="ユーザーID"></input>
