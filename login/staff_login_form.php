@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="../css/style.css" type="text/css">
     <meta charset="utf-8" />
     <title>ユーザーログイン画面</title>
-    
+
     <!--ウィンドウを閉じるfunction-->
     <script type="text/javascript">
         function CloseWindow() {
@@ -51,5 +51,4 @@
     </form>
 
 </body>
-
 </html>
