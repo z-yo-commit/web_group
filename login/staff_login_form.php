@@ -23,6 +23,7 @@
         </br>
         </br>
     </div>
+    
     <!--login form-->
     <form name="login" class=login method="post" action="login.php">
         <label for="staff_id">ユーザーID</label>
