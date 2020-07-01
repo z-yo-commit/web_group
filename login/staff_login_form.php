@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="../css/style.css" type="text/css">
     <meta charset="utf-8" />
     <title>ユーザーログイン画面</title>
+    
     <!--ウィンドウを閉じるfunction-->
     <script type="text/javascript">
         function CloseWindow() {
@@ -22,7 +23,7 @@
         </br>
         </br>
     </div>
-    <!--login form>
+    <!--login form-->
     <form name="login" class=login method="post" action="login.php">
         <label for="staff_id">ユーザーID</label>
         <input type="text" name="staff_id" required="required" placeholder="ユーザーID"></input>
