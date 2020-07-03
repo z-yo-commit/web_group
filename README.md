@@ -1,2 +1,0 @@
-# MANAKURU_WEB
-cho
